@@ -1,0 +1,9 @@
+{
+	"name": "sujeeth-factoryazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a5cc662-26b0-48f1-9c0c-337cf0555870",
+		"tenantId": "b41cadc7-a235-4b3c-91a0-276ae764eca5"
+	}
+}
