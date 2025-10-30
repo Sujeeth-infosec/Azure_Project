@@ -1,5 +1,5 @@
 {
-	"name": "Incremental_Ingestion",
+	"name": "Incremental_loop",
 	"properties": {
 		"activities": [
 			{
